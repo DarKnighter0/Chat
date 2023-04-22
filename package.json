@@ -1,0 +1,27 @@
+{
+  "name": "as",
+  "version": "1.0.0",
+  "main": "js.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarKnighter0/Chat.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DarKnighter0/Chat/issues"
+  },
+  "homepage": "https://github.com/DarKnighter0/Chat#readme",
+  "description": "",
+  "dependencies": {
+    "socket.io": "^4.6.1",
+    "sqlite": "^4.1.2",
+    "sqlite3": "^5.1.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
